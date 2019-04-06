@@ -16,3 +16,33 @@
     * **Portfoligrid** - A portfolio theme using the grid, flexbox and the collapse widget
 
 #### It's a great course and I highly recommend it!
+
+### Below are some screenshots of the various themes you build throughout the course.
+
+#### "Looplab" Social Network Theme
+
+![](./screens/social-media-theme.png)
+
+
+
+#### "Mizuxe" Book Promotion Theme
+
+![](./screens/book-promotion-theme.png)
+
+
+
+#### "Glozzom" Multi Page Theme
+
+![](./screens/multipage-theme.png)
+
+
+
+#### Portfolio Grid Theme
+
+![](./screens/resume-portfolio-theme.png)
+
+
+
+#### "Blogen" Admin UI Theme
+
+![](./screens/admin-ui-theme.png)
